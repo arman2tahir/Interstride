@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="21px" viewBox="0 0 11 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.2 (72643) - https://sketchapp.com -->
+    <title>5E9728D8-2618-4E95-8970-1420DEB44022</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="1.80744308e-12 0.0306666667 11.3966667 0.0306666667 11.3966667 22 1.80744308e-12 22"></polygon>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rankings/Home" transform="translate(-227.000000, -2818.000000)">
+            <g id="Style/Footer" transform="translate(0.000000, 2633.000000)">
+                <g id="Group-13" transform="translate(227.000000, 184.000000)">
+                    <g id="Group-5">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-4"></g>
+                        <path d="M11,4.54365043 L9.01234279,4.54365043 C7.42170225,4.54365043 7.1565955,5.33126991 7.1565955,6.38142922 L7.1565955,8.74365043 L10.8674466,8.74365043 L10.3372331,12.4185708 L7.1565955,12.4185708 L7.1565955,22 L3.31319099,22 L3.31319099,12.4185708 L1.8189894e-12,12.4185708 L1.8189894e-12,8.74365043 L3.31319099,8.74365043 L3.31319099,5.98761948 C3.18063761,2.70650888 5.16829482,1 8.08446914,1 C9.41000292,1 10.6023399,1.13126991 11,1.13126991 L11,4.54365043 Z" id="Fill-3" fill="#0030B5" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
